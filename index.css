@@ -1,0 +1,25 @@
+
+a{
+    text-decoration: none;
+}
+#student_form{
+    display: block;
+
+    width: 20%;
+   
+
+}
+
+#student_form input{
+   padding: 5px;
+    width: 100%;
+    margin: 15px;
+}
+#submit{
+    background-color: teal;
+    color: white;
+    padding: 5px;
+}
+h2{
+    margin: 20px;
+}
